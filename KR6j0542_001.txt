@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:34:28.485073
+#+DATE: 2015-08-30 20:34:28.991599
 #+TITLE: 梵天火羅九曜
 #+PROPERTY: CBETA_ID T21n1311
 #+PROPERTY: ID KR6j0542
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1311
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6j0542_T_001-0459b> 
 #+PROPERTY: JUAN 1
 ¶
-No.1311¶
-
- 梵天火羅九曜¶
+No. 1311¶
+梵天火羅九曜¶
 ¶
 
 一行禪師修述。二十八宿在天左轉。數知¶
@@ -329,11 +328,7 @@ No.1311¶
 小便折人壽命。宜思真念善獲福宜財。若¶
 不穰之災害競起。¶
 
-葛仙公禮北斗法
-:PROPERTIES:
-:head: 葛仙公禮北斗法
-:END:
-¶
+葛仙公禮北斗法¶
 
 鎮上玄九北極北斗。從王侯及於士庶。盡¶
 皆屬北斗七星。常須敬重。當不逢橫禍凶惡¶
@@ -397,11 +392,7 @@ No.1311¶
 無不知也　夫人行年吉少凶多乍可知而迴¶
 避不可坐受其災云若莫日　■■。¶
 
-梵天火羅圖
-:PROPERTIES:
-:head: 梵天火羅圖一帖
-:END:
-¶
+梵天火羅圖一帖¶
 
 敬白大梵天王帝釋天王。閻羅天子五道大¶
 神。太山府君司命司祿。十二宮神七曜九執。¶
